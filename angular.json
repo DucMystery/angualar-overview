@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angualar-overview"
+    }
+  },
+  "defaultProject": "angualar-overview",
+  "cli": {
+    "analytics": "d13cfdbd-46db-41ad-8bec-83d2a2080f72"
+  }
 }
