@@ -1,0 +1,8 @@
+<h2>{{title}}</h2>
+<div>
+  <label>Chọn Màu :</label>
+  <input [value]="background" type="color" (change)="onChange($event.target.value)">
+</div>
+<p>Output :
+</p>
+<input [value]="background" type="color">
